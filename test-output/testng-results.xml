@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12027" started-at="2021-05-02T15:04:06Z" finished-at="2021-05-02T15:04:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12027" started-at="2021-05-02T15:04:06Z" finished-at="2021-05-02T15:04:18Z">
+      <class name="Maven.Test02">
+        <test-method status="PASS" signature="verifySubTitle()[pri:0, instance:Maven.Test02@39aeed2f]" name="verifySubTitle" duration-ms="12010" started-at="2021-05-02T20:34:06Z" finished-at="2021-05-02T20:34:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubTitle -->
+      </class> <!-- Maven.Test02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
